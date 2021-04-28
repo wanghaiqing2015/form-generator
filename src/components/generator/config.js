@@ -184,7 +184,7 @@ export const selectComponents = [
   {
     __config__: {
       label: '级联选择',
-      url: 'https://www.fastmock.site/mock/f8d7a54fb1e60561e2f720d5a810009d/fg/cascaderList',
+      url: 'https://wanghaiqing2015.github.io/static/cascaderList',
       method: 'get',
       dataPath: 'list',
       dataConsumer: 'options',
@@ -564,7 +564,7 @@ export const layoutComponents = [
       method: 'get',
       dataPath: 'list',
       dataConsumer: 'data',
-      url: 'https://www.fastmock.site/mock/f8d7a54fb1e60561e2f720d5a810009d/fg/tableData',
+      url: 'https://wanghaiqing2015.github.io/static/tableData',
       children: [{
         __config__: {
           layout: 'raw',

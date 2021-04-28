@@ -1,4 +1,5 @@
-const CDN = 'https://lib.baomitu.com/' // CDN Homepage: https://cdn.baomitu.com/
+// const CDN = 'https://lib.baomitu.com/' // CDN Homepage: https://cdn.baomitu.com/
+const CDN = 'static/' // CDN Homepage: https://cdn.baomitu.com/
 const publicPath = process.env.BASE_URL
 
 function splicingPluginUrl(PluginName, version, fileName) {
